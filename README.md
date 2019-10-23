@@ -1,8 +1,8 @@
 ### git status
-git status -s
+- git status -s
 
 ### git config
-git config --list
+- git config --list
 
 ### git diff
 ```
